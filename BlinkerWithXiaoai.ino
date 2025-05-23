@@ -5,9 +5,9 @@
 #include <Blinker.h>
 
 // 对应客户端的秘钥
-char auth[] = "5cbcd3f569cf";
-char ssid[] = "ZA504";
-char pswd[] = "za504za504";
+char auth[] = "********";
+char ssid[] = "********";
+char pswd[] = "********";
 
 Servo myservo;  // 初始化舵机对象
 BlinkerButton Button1("btn-max");  // 最大值按钮
